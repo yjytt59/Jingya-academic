@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jingya YAN
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Singapore-ETH Centre, ETH Zurich
+  url: "https://sec.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Geo-Ontology, 3D geospatial data model, geospatial data management, cartography.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geo-ontology
+- 3D geospatial data model
+- Cartography
 
 education:
   courses:
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jingya a postdoctoral researcher in the Singapore-ETH Centre at ETH Zurich, where I am working on the Digital Underground. Currently, my research focuses on 3D data model for utility networks. To be able to have both above surface and underground data in a single, consolidated and possibly integrated database, a data model for the 3D representation and storage of underground utility network data is required. There is geometry of existing underground utilities in 2D with semantics available. This information must be standardised. The data model should be capable of representing 3D information, integrating (2D) data provided by data suppliers (e.g. land surveyors, utility infrastructure owners) and supporting the use cases that have been identified (e.g. urban planning, governance).
