@@ -6,7 +6,7 @@ title = "Three-Dimensional Data Modelling for Underground Utility Network Mappin
 date = "2018-07-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Jingya Yan__", "Siow Wei JAW", "Rob Van Son", "Kean Huat SOON", "Gerhard SCHROTTER"]
+authors = ["**Jingya Yan**", "Siow Wei JAW", "Rob Van Son", "Kean Huat SOON", "Gerhard SCHROTTER"]
 
 # Publication type.
 # Legend:
