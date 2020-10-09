@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Geomatics
+    institution: The French Naval Academy Research Institute (IRENav), France
+    year: 2015
+  - course: MSc in Geomatics
+    institution: The Hong Kong Polytechnic University, Hong Kong
+    year: 2011
+  - course: BSc in Computer Science
+    institution: Hainan University, China
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +44,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: yjytt59@gmail.com  # For a direct email link, use "yjytt59@gmail.com".
+- icon: linkedin
+  icon_pack: fa
+  link: https://www.linkedin.com/in/jingya-yan-4064a060/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=ByJdXcUAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jingya_Yan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV_YAN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yjytt59@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
