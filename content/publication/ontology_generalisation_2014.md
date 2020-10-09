@@ -6,7 +6,7 @@ title = "An Ontology for the Generalisation of the Bathymetry on Nautical Charts
 date = "2014-11-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Jingya Yan__", "Eric Guilbert", "Eric Saux"]
+authors = ["**Jingya Yan**", "Eric Guilbert", "Eric Saux"]
 
 # Publication type.
 # Legend:
