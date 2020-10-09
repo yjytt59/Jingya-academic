@@ -54,6 +54,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jingya_Yan
+- icon: twitter
+  icon_pack: fa
+  link: https://twitter.com/yjytt59  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
