@@ -6,7 +6,7 @@ title = "An Ontology of the Submarine Relief for Analysis and Representation on 
 date = "2015-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Jingya Yan__", "Eric Guilbert", "Eric Saux"]
+authors = ["**Jingya Yan**", "Eric Guilbert", "Eric Saux"]
 
 # Publication type.
 # Legend:
