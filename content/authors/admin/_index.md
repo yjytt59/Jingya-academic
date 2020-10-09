@@ -46,7 +46,7 @@ social:
   icon_pack: fas
   link: yjytt59@gmail.com  # For a direct email link, use "yjytt59@gmail.com".
 - icon: linkedin
-  icon_pack: fa
+  icon_pack: fab
   link: https://www.linkedin.com/in/jingya-yan-4064a060/
 - icon: google-scholar
   icon_pack: ai
@@ -55,7 +55,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jingya_Yan
 - icon: twitter
-  icon_pack: fa
+  icon_pack: fab
   link: https://twitter.com/yjytt59  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
