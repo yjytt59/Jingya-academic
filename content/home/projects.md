@@ -25,9 +25,9 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+     name = "Ontology"
+     tag = "Ontology"
   
   # [[content.filter_button]]
   #   name = "Other"
