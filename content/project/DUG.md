@@ -29,11 +29,11 @@ image = "showcase.jpeg"
 caption = ""
 
 +++
-The [Digital Underground](http://www.fcl.ethz.ch/research/research-to-application/digital-underground.html) project is a research-to-application initiative embarked on by the Future Cities Laboratory of the Singapore-ETH Centre together with Singapore Land Authority that aims to improve understanding of the underground and develop the capability to include accurate 3D information of underground structures in the planning process. Focusing on utility networks, the project aims to develop guidelines on how to acquire data of both new and existing underground infrastructures and the maintenance of a permanent digital record of the precise location of the underground infrastructures in a consolidated 3D database alongside above ground data.
+The [Digital Underground](https://sec.ethz.ch/research/digital-underground.html) project is a research-to-application initiative embarked on by the Future Cities Laboratory of the Singapore-ETH Centre together with Singapore Land Authority that aims to improve understanding of the underground and develop the capability to include accurate 3D information of underground structures in the planning process. Focusing on utility networks, the project aims to develop guidelines on how to acquire data of both new and existing underground infrastructures and the maintenance of a permanent digital record of the precise location of the underground infrastructures in a consolidated 3D database alongside above ground data.
 
-Events and exhibitions:\\
-* The Digital Underground team and Singapore Land Authority led a delegation of Singapore government organisations and the City of Zurich on a study visit to Hong Kong from 16 to 20 April 2018. [News](http://www.fcl.ethz.ch/news/news/2018/05/digital-underground-visits-hong-kong.html)\\
-* The project is presented at 'Underground: Singapore's Next Frontier' at the URA as part of its Urban Lab exhibition to demonstrate how underground spaces can be mapped. [News](http://www.fcl.ethz.ch/news/news/2018/06/digital-underground-exhibits-at-urban-lab.html)\\
+Events and exhibitions:\
+* The Digital Underground team and Singapore Land Authority led a delegation of Singapore government organisations and the City of Zurich on a study visit to Hong Kong from 16 to 20 April 2018. [News](http://www.fcl.ethz.ch/news/news/2018/05/digital-underground-visits-hong-kong.html)\
+* The project is presented at 'Underground: Singapore's Next Frontier' at the URA as part of its Urban Lab exhibition to demonstrate how underground spaces can be mapped. [News](http://www.fcl.ethz.ch/news/news/2018/06/digital-underground-exhibits-at-urban-lab.html)\
 * The project is presented at World Cities Summit 2018 as part of URA exhibition  to demonstrate how underground spaces can be mapped.
 {{< figure src="/img/wcs.jpg">}}
 
