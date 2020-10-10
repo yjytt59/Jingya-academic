@@ -1,15 +1,16 @@
 ---
 title: Digital Underground
-summary: An accurate 3D digital mapping of the utility network and underground components will help planners to understand these dense and complex networks. Such a digital map could also shed light on the management of the utility networks such as their ownership and operation, in order to ensure legal compliance, efficiency, and resilience of these systems. However, to develop a reliable 3D digital map, we need sufficient and consistently accurate information of these utility networks. The Singapore-ETH Centre, together with the Singapore Land Authority (SLA), has embarked on this project with the recent signing of a research collaboration agreement. The project, which starts in October 2017, aims to develop a national mapping strategy for subsurface utilities of existing and future utility networks in Singapore.
+summary: The Singapore-ETH Centre, together with the Singapore Land Authority (SLA), has embarked on this project with the recent signing of a research collaboration agreement. The project, which starts in October 2017, aims to develop a national mapping strategy for subsurface utilities of existing and future utility networks in Singapore.
 tags:
 - 3D data model
+- Subsurface utility
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption:
   focal_point: Smart
 
 links:
@@ -18,7 +19,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://digitalunderground.sg/s/Digital-Underground-digital-distribution.pdf"
 url_slides: ""
 url_video: ""
 
