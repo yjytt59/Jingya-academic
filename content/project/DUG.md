@@ -11,7 +11,7 @@ tags = ["Underground utility networks", "3D Underground mapping", "3D Data model
 summary = "An accurate 3D digital mapping of the utility network and underground components will help planners to understand these dense and complex networks. Such a digital map could also shed light on the management of the utility networks such as their ownership and operation, in order to ensure legal compliance, efficiency, and resilience of these systems. However, to develop a reliable 3D digital map, we need sufficient and consistently accurate information of these utility networks. The Singapore-ETH Centre, together with the Singapore Land Authority (SLA), has embarked on this project with the recent signing of a research collaboration agreement. The project, which starts in October 2017 and spans 1.5 years, aims to develop a roadmap for the 3D mapping of existing and future utility networks in Singapore."
 
 # Optional image to display on homepage.
-image_preview = "showcase.jpeg"
+image_preview = "static/img/showcase.jpeg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
