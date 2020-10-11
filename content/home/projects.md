@@ -29,9 +29,9 @@ subtitle = ""
      name = "Ontology"
      tag = "Ontology"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "3D Data Model"
+    tag = "3D data model"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
