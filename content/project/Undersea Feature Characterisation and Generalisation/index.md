@@ -1,9 +1,9 @@
 ---
-title: Digital Underground
-summary: The Singapore-ETH Centre, together with the Singapore Land Authority (SLA), has embarked on this project with the recent signing of a research collaboration agreement. The project, which starts in October 2017, aims to develop a national mapping strategy for subsurface utilities of existing and future utility networks in Singapore.
+title: An Ontologies and Agents Based Approach for Undersea Feature Characterisation and Generalisation
+summary: Construction of a nautical chart follows very specific rules. An undersea feature is a subjective individuation of a part of the seafloor. Landform recognition is a difficult task because its definition usually relies on a qualitative and fuzzy description. This project aims to define ontologies of the submarine relief and nautical chart. Then, the ontologies are applied to generalisation of nautical chart. In the first part of the research, an ontology is defined to organise geographical and cartographic knowledge for undersea feature representation and nautical chart generalisation. In the second part, a generalisation process based on the ontology is designed relying on a multi-agent system.
 tags:
-- 3D data model
-- Subsurface utility
+- Ontology
+- Cartography
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -19,7 +19,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://digitalunderground.sg/s/Digital-Underground-digital-distribution.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -30,10 +30,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-The [Digital Underground](https://sec.ethz.ch/research/digital-underground.html) project is a research-to-application initiative embarked on by the Future Cities Laboratory of the Singapore-ETH Centre together with Singapore Land Authority that aims to improve understanding of the underground and develop the capability to include accurate 3D information of underground structures in the planning process. Focusing on utility networks, the project aims to develop guidelines on how to acquire data of both new and existing underground infrastructures and the maintenance of a permanent digital record of the precise location of the underground infrastructures in a consolidated 3D database alongside above ground data.
+A nautical chart is a kind of map used to describe the seafloor morphology and the shoreline of adjacent lands. One of its main purposes is to guaranty safety of maritime navigation. As a consequence, construction of a nautical chart follows very specific rules. The cartographer has to select and highlight undersea features according to their relevance to navigation. In an automated process, the system must be able to identify and classify these features from the terrain model.
 
-Events and exhibitions:
-* The Digital Underground team and Singapore Land Authority led a delegation of Singapore government organisations and the City of Zurich on a study visit to Hong Kong from 16 to 20 April 2018. [News](http://www.fcl.ethz.ch/news/news/2018/05/digital-underground-visits-hong-kong.html)
-* The project is presented at 'Underground: Singapore's Next Frontier' at the URA as part of its Urban Lab exhibition to demonstrate how underground spaces can be mapped. [News](http://www.fcl.ethz.ch/news/news/2018/06/digital-underground-exhibits-at-urban-lab.html)
-* The project is presented at World Cities Summit 2018 as part of URA exhibition  to demonstrate how underground spaces can be mapped.
-{{< figure src="/img/showcase.jpeg">}}
+An undersea feature is a subjective individuation of a part of the seafloor. Landform recognition is a difficult task because its definition usually relies on a qualitative and fuzzy description. Achieving automatic recognition of landforms requires a formal definition of the landforms properties and their modelling. In the maritime domain, the International Hydrographic Organisation published a standard terminology of undersea feature names which formalises a set of definitions mainly for naming features and communication purpose. This terminology is here used as a starting point for the automatic classification of the features from a terrain model.
+
+In order to integrate knowledge about the submarine relief and its representation on the chart, this research aims to define ontologies of the submarine relief and nautical chart. Then, the ontologies are applied to generalisation of nautical chart. It includes two main parts. In the first part of the research, an ontology is defined to organise geographical and cartographic knowledge for undersea feature representation and nautical chart generalisation. First, a domain ontology of the submarine relief introduces the di↵erent concepts of undersea features with their geometric and topological properties. This ontology is required for the classification of features. Second, a representation ontology is presented, which describes how bathymetric entities are portrayed on the map. Third, a generalisation process ontology defines constraints and operations in nautical chart generalisation. In the second part, a generalisation process based on the ontology is designed relying on a multi-agent system. Four kinds of agents (isobath, sounding, feature and group of features) are defined to manage cartographic objects on the chart. A database model was generated from the ontology. The bathymetric data and the ontology are stored in a triplestore database, and are connected to an interface in Java and C++ to automatically classify the undersea features extracted from the bathymetry, and evaluate the cartographic constraints. At first, geometrical properties describing the feature shape are computed from soundings and isobaths and are used for feature classification. Then, conflicts are evaluated in a MAS and generalisation plans are provided.
